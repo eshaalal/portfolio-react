@@ -28,12 +28,7 @@ function Projects() {
           h3="Hipsster"
           p="Glasses Shop"
         />
-        <ProjectCard
-          src={fitLift}
-          link=""
-          h3="FitLift"
-          p="Fitness App"
-        />
+        
       </div>
     </section>
   );
